@@ -100,6 +100,39 @@
         <mxCell id="MNd5aAkcBdpelcTjUVek-50" value="结算" style="edgeLabel;resizable=0;html=1;fontSize=12;;align=center;verticalAlign=middle;fontStyle=3" connectable="0" vertex="1" parent="MNd5aAkcBdpelcTjUVek-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MNd5aAkcBdpelcTjUVek-60" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#b85450;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="600" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MNd5aAkcBdpelcTjUVek-61" value="原PO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=#ffffff;fillColor=none;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="610" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MNd5aAkcBdpelcTjUVek-76" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="639.66" y="650" as="sourcePoint" />
+            <mxPoint x="640" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNd5aAkcBdpelcTjUVek-77" value="将作品上传至原创圈助手" style="edgeLabel;resizable=0;html=1;fontSize=12;;align=center;verticalAlign=middle;fontStyle=3" connectable="0" vertex="1" parent="MNd5aAkcBdpelcTjUVek-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MNd5aAkcBdpelcTjUVek-80" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;shape=mxgraph.azure.cloud;" vertex="1" parent="1">
+          <mxGeometry x="590.84" y="754" width="92.31" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MNd5aAkcBdpelcTjUVek-81" value="原创圈助手" style="edgeLabel;resizable=0;html=1;fontSize=12;;align=center;verticalAlign=middle;fontStyle=3;labelBackgroundColor=none;fontColor=#000000;textShadow=0;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="635.9999999999999" y="792.0024137931035" as="geometry" />
+        </mxCell>
+        <mxCell id="MNd5aAkcBdpelcTjUVek-82" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="639.66" y="830" as="sourcePoint" />
+            <mxPoint x="640" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNd5aAkcBdpelcTjUVek-83" value="发布到QQ机器人" style="edgeLabel;resizable=0;html=1;fontSize=12;;align=center;verticalAlign=middle;fontStyle=3" connectable="0" vertex="1" parent="MNd5aAkcBdpelcTjUVek-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MNd5aAkcBdpelcTjUVek-86" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/social-media/512/QQ-128.png" vertex="1" parent="1">
+          <mxGeometry x="596" y="930" width="88" height="88" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
